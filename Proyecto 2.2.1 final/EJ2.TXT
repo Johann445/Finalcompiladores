@@ -1,0 +1,23 @@
+{
+
+  "operacion 1": {
+
+    "multiplicacion": [
+
+      2
+
+    ],
+
+    "suma": [
+
+      1,
+
+      2,
+
+      3
+
+    ]
+
+  }
+
+}
